@@ -48,6 +48,7 @@
     <Compile Include="DataObjects\DataSourceDev.cs" />
     <Compile Include="DataObjects\DataSourceQa.cs" />
     <Compile Include="DataObjects\DataSourceUat.cs" />
+    <Compile Include="DataObjects\Environment.cs" />
     <Compile Include="DataObjects\IDataSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
