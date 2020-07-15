@@ -50,6 +50,7 @@
     <Compile Include="DataObjects\DataSourceUat.cs" />
     <Compile Include="DataObjects\Environment.cs" />
     <Compile Include="DataObjects\IDataSource.cs" />
+    <Compile Include="DataObjects\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
