@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataObjects\DatabaseAccess.cs" />
+    <Compile Include="DataObjects\DataSetup.cs" />
     <Compile Include="DataObjects\DataSourceDev.cs" />
     <Compile Include="DataObjects\DataSourceQa.cs" />
     <Compile Include="DataObjects\DataSourceUat.cs" />
