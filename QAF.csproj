@@ -55,6 +55,7 @@
     <Compile Include="DataObjects\IDataSource.cs" />
     <Compile Include="DataObjects\Student.cs" />
     <Compile Include="DataObjects\TokenResponse.cs" />
+    <Compile Include="Framework\BaseTest.cs" />
     <Compile Include="Framework\CustomActions.cs" />
     <Compile Include="Framework\DriverFactory.cs" />
     <Compile Include="Framework\DriverType.cs" />
