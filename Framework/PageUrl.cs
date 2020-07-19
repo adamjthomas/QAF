@@ -1,6 +1,6 @@
 ﻿namespace QAF.Framework
 {
-    public class PagrUrl
+    public class PageUrl
     {
         public string Dev { get; set; }
         public string Qa { get; set; }
