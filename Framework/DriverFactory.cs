@@ -23,7 +23,7 @@ namespace QAF.Framework
             switch (driverType)
             {
                 case DriverType.Chrome:
-                    location = @"C\Program Files (x86)\Google\Chrome\Application\chrome.exe";
+                    location = @"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe";
                     break;
                 case DriverType.Firefox:
                     location = @"C:\Program Files\Mozilla Firefox\firefox.exe";
