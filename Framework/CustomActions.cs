@@ -13,7 +13,7 @@ namespace QAF.Framework
     class CustomActions
     {
         private static readonly string
-            screenshotsFolderPath = @"C:\Code\\Screenshots\QAF\",
+            screenshotsFolderPath = @"C:\Code\Screenshots\QAF\",
             screenshotsToBeDeleted = "ScreenshotsCleanUpDate";
 
         public static string GetValueFromXMLFileByAttribute(string fileLocation, string attributeId)
