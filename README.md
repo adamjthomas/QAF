@@ -1,7 +1,7 @@
 # Quality Assurance Framework (QAF)
 
 ## Description
-This framework is a boilerplate I built to help ease manual quality assurance analysts into automating their tests with code.
+This framework is a boilerplate I built to help ease manual quality assurance analysts into automating their tests with code. This framework was heavily inspired and derived from an original framework by [Ahkila Lanka](https://www.linkedin.com/in/akhila-lanka-b814099a/).
 
 #### Technologies Used:
 - Selenium Web Driver
@@ -27,5 +27,14 @@ Create a companion web app that will help with learning how to implement this fr
 - [KeyBase](https://keybase.io/adamjthomas)
 - [LinkedIn](https://linkedin.com/in/adamjthomas)
 
+## Inspiration | Moral Support | Credits 
+**Ahkila Lanka**
+- [GitHub](https://github.com/Akhilanjana)
+- LinkedIn(https://www.linkedin.com/in/akhila-lanka-b814099a/)
+
+**Nick Goulian**
+- [GitHub](https://www.github.com/dgoulian)
+- [LinkedIn](https://www.linkedin.com/in/nick-goulian/)
+
 ## Copyright
-Copyright 2020 under Adam J. Thomas. Code released under the [Apache 2.0 License](https://github.com/adamjthomas/QAF/LICENSE.md).
+Code released under the [Apache 2.0 License](https://github.com/adamjthomas/QAF/LICENSE.md).
