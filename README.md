@@ -30,7 +30,7 @@ Create a companion web app that will help with learning how to implement this fr
 ## Inspiration | Moral Support | Credits 
 **Ahkila Lanka**
 - [GitHub](https://github.com/Akhilanjana)
-- LinkedIn(https://www.linkedin.com/in/akhila-lanka-b814099a/)
+- [LinkedIn](https://www.linkedin.com/in/akhila-lanka-b814099a/)
 
 **Nick Goulian**
 - [GitHub](https://www.github.com/dgoulian)
