@@ -36,5 +36,8 @@ Create a companion web app that will help with learning how to implement this fr
 - [GitHub](https://www.github.com/dgoulian)
 - [LinkedIn](https://www.linkedin.com/in/nick-goulian/)
 
+**Luís Dias D'Oliveira**
+- [LinkedIn](https://www.linkedin.com/in/luisdiasdeoliveira/)
+
 ## Copyright
 Code released under the [Apache 2.0 License](https://github.com/adamjthomas/QAF/LICENSE.md).
