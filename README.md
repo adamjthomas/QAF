@@ -16,7 +16,7 @@ This framework is a boilerplate I built to help ease manual quality assurance an
 - Restore NuGet Packages
 
 ## Bugs
-Found a bug? If your issue is not addressed yet, [please open a new issue](https://github.com/adamjthomas/QAF/issues/new).
+Found a bug? If your issue is not addressed yet, [please open a new issue](https://github.com/madelynthomas/QAF/issues/new).
 
 ## Future Plans
 Create a companion web app that will help with learning how to implement this framework to new projects.
