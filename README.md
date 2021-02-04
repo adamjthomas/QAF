@@ -21,12 +21,6 @@ Found a bug? If your issue is not addressed yet, [please open a new issue](https
 ## Future Plans
 Create a companion web app that will help with learning how to implement this framework to new projects.
 
-## Author Info
-**Adam J. Thomas**
-- [GitHub](https://github.com/adamjthomas)
-- [KeyBase](https://keybase.io/adamjthomas)
-- [LinkedIn](https://linkedin.com/in/adamjthomas)
-
 ## Inspiration | Moral Support | Credits 
 **Akhila Lanka**
 - [GitHub](https://github.com/Akhilanjana)
